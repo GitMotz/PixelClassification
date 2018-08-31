@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 This code relates to
 
 ##### A systems-level study reveals regulators of membrane-less organelles in human cells
