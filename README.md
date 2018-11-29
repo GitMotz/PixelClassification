@@ -1,6 +1,6 @@
 This code relates to
 
-##### A systems-level study reveals regulators of membrane-less organelles in human cells
+#### A systems-level study reveals regulators of membrane-less organelles in human cells
 by Doris Berchtold, Nico Battich, and Lucas Pelkmans.  
 
 *** 
@@ -96,7 +96,7 @@ All segmentations of MLOs in Berchtold et al. were achieved using the *Gaussian*
 
 *** 
   
-##### Pixel features used for classification of MLOs in Berchtold et al.
+#### Pixel features used for classification of MLOs in Berchtold et al.
 **Cajal bodies**:  
 log_5_2, log_6_3, log_8_4, log_10_5, gau_9_4, gau_5_2, diffgau_1,diffgau_2, average_3, average_5, average_10, morph_opening, morph_close, edges, deconv_10_7, deconv_10_3, deconv_5_3, std_dif_1, zscore_1, watershed_lines_smoothed  
 **Nucleoli**:  
